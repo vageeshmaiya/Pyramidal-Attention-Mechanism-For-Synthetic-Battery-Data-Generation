@@ -9,7 +9,7 @@ This project has been executed via google colab.
 
 2. Extract the contents of the zip file and upload it into google drive.
 
-3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16IqNviGXHYfd5lZdyZ49Yrq3WNm3mb6R?authuser=2#scrollTo=VWwTqwV26seQ)
+3. The code to be executed in google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vageeshmaiya/Pyramidal-Attention-Mechanism-For-Synthetic-Battery-Data-Generation-/blob/main/Pyramidal_Attention_Mechanism_For_Synthetic_Battery_Data_Generation.ipynb)
 
 4. Make sure to set the runtime to GPU before running the code.
 
